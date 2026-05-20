@@ -30,6 +30,6 @@ If it's mission-critical, I'll see it through.
 ## Reach Out!
 Feel free to reach out - I'm always open to interesting conversations and opportunities :]
 
-📧 alex1@uci.edu
+📧 alex.j.amaro@icloud.com
 
 ***Ad astra, always and forever*** ✨✨
