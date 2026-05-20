@@ -13,7 +13,7 @@ If it's mission-critical, I'll see it through.
 - Systems Architecture & Integration
 - Embedded Systems & Firmware
 - Circuit & PCB Design
-- Physical Simulation
+- Physical Simulation 🌊
 
 ## Technologies
 - C/C++, C#, Python
@@ -22,12 +22,12 @@ If it's mission-critical, I'll see it through.
 - Unity, OpenFOAM
 - Git, Linux
 
-## What I’ve been up to
+## What I’ve Been Up To
 - Developed avionics and data acquisition systems for methalox rocket engine testing at the [UCI Rocket Project Liquids](https://www.rocket.eng.uci.edu/liquids/)
 - Led systems architecture for autonomous combat robotics platforms at [UCI ACE Robotics](https://sites.google.com/uci.edu/anteatercombatengineering)
 - Built CFD visualization and data-processing tools for cardiovascular research at [Cardio Flow Design](https://cfd.life/en/) in Tokyo, Japan
 
-## Reach out!
+## Reach Out!
 Feel free to reach out - I'm always open to interesting conversations and opportunities :]
 
 📧 alex1@uci.edu
