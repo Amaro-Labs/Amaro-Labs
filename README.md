@@ -24,7 +24,7 @@ If it's mission-critical, I'll see it through.
 
 ## What I’ve Been Up To
 - Developed avionics and data acquisition systems for methalox rocket engine testing at the [UCI Rocket Project Liquids](https://www.rocket.eng.uci.edu/liquids/)
-- Led systems architecture for autonomous combat robotics platforms at [UCI ACE Robotics](https://sites.google.com/uci.edu/anteatercombatengineering)
+- Led systems architecture for an autonomous combat robot at [UCI ACE Robotics](https://sites.google.com/uci.edu/anteatercombatengineering)
 - Built CFD visualization and data-processing tools for cardiovascular research at [Cardio Flow Design](https://cfd.life/en/) in Tokyo, Japan
 
 ## Reach Out!
