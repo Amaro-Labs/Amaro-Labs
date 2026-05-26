@@ -1,6 +1,6 @@
 # Hey, I'm Alex!
 
-I’m a Computer Engineering student at the University of California, Irvine focused on embedded systems, autonomy, and intelligent physical systems.
+I’m a Computer Engineering student at the University of California, Irvine building embedded, autonomous, and intelligent physical systems.
 
 I enjoy working across the stack, from low-level firmware and PCB design to perception and autonomy pipelines. My work spans robotics, avionics, biomedicine, and scientific software - I’m especially drawn to the challenges and potential of inventing technologies that meaningfully interact with and improve the physical world.
 
