@@ -1,19 +1,17 @@
-# Hey, I'm Alex!
+# Hey, I'm Alex
 
 I’m a Computer Engineering student at the University of California, Irvine building embedded, autonomous, and intelligent physical systems.
 
-I enjoy working across the stack, from low-level firmware and PCB design to perception and autonomy pipelines. My work spans robotics, avionics, biomedicine, and scientific software - I’m especially drawn to the challenges and potential of inventing technologies that meaningfully interact with and improve the physical world.
-
-If it's mission-critical, I'll see it through.
+I enjoy working across the stack, from low-level firmware and PCB design to perception and autonomy pipelines. My work spans robotics, avionics, and scientific software. I’m particularly drawn to the challenges and potential of inventing technologies that meaningfully interact with and improve the world around us.
 
 ## Technical Interests
-- Intelligent Physical Systems 🚀
-- Robotics & Autonomy 🤖
+- Intelligent Physical Systems 
+- Robotics & Autonomy 
 - Sensing & Data Acquisition
 - Systems Architecture & Integration
 - Embedded Systems & Firmware
 - Circuit & PCB Design
-- Physical Simulation 🌊
+- Physical Simulation 
 
 ## Technologies
 - C/C++, C#, Python
@@ -28,8 +26,8 @@ If it's mission-critical, I'll see it through.
 - Built CFD visualization and data-processing tools for cardiovascular research at [Cardio Flow Design](https://cfd.life/en/) in Tokyo, Japan
 
 ## Reach Out!
-Feel free to reach out - I'm always open to interesting conversations and opportunities :]
+Feel free to reach out, I'm always open to interesting conversations and opportunities :]
 
 📧 alex.j.amaro@icloud.com
 
-***Ad astra, always and forever*** ✨✨
+***Ad astra*** 
